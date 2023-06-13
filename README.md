@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data Science<br>👯 I’m looking to collaborate on Data Science Project<br>🤝 I’m looking for help with Django , Data Science <br>🌱 I’m currently learning python ,C++,Data Structure , Sql ,DBMS<br>💬 Ask me about Data Science<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
